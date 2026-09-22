@@ -74,4 +74,4 @@ TestForge/
 
 ## Author
 
-Deepanshu Bisht — QA Trainee Portfolio Project
+Deepanshu Bisht
